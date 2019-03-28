@@ -291,8 +291,11 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
-  background-size: cover; }
+  background: url(../img/banner/amanda-coverphoto.png) no-repeat scroll center center;
+  background-size: cover; 
+  padding-top: 200px;
+  padding-bottom: 40px;
+}
   .home_banner_area .banner_inner {
     width: 100%; }
     .home_banner_area .banner_inner .home_left_img {
