@@ -49,6 +49,14 @@ Table of Content:
   margin: 0px;
   padding: 0px; }
 
+.fa-star {
+  color: #ffc000;
+}
+
+.fa-star-half-o {
+  color: #ffc000;
+}
+
 a {
   text-decoration: none;
   transition: all 0.3s ease-in-out; }
@@ -140,7 +148,7 @@ button:focus {
   z-index: 99;
   transition: background 0.4s, all 0.3s linear; }
   .header_area .navbar {
-    background: transparent;
+    background: white;
     padding: 0px;
     border: 0px;
     border-radius: 0px; }
@@ -234,6 +242,7 @@ button:focus {
     left: 0;
     right: 0;
     background: #fff;
+    color: black;
     transform: translateY(70px);
     transition: transform 500ms ease, background 500ms ease;
     -webkit-transition: transform 500ms ease, background 500ms ease;
