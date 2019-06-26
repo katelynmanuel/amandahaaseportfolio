@@ -1526,7 +1526,9 @@ b, sup, sub, u, del {
   color: #f8b600; }
 
 h1 {
-  font-size: 36px; }
+  font-size: 36px; 
+  color: #444444;
+}
 
 h2 {
   font-size: 30px; }
